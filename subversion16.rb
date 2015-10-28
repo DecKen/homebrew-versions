@@ -2,7 +2,7 @@ class Subversion16 < Formula
   desc "Version control system designed to be a better CVS"
   homepage "https://subversion.apache.org/"
   url "https://archive.apache.org/dist/subversion/subversion-1.6.16.tar.bz2"
-  sha256 "214abc6b9359ea3a5fda2dee87dad110d1b33dcf888c1f8e361d69fbfa053943"
+  sha256 "dce4897d62d0dc29ab03834ed1d66ede95c07702e32a0042f96c24c6f1213386"
 
   bottle do
     revision 2
